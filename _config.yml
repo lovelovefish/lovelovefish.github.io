@@ -16,16 +16,16 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 author: true
 name: '大果粒柠檬'
 NickName: '柠檬'
-webtitle: '不玩微博'
+webtitle: '我的小窝'
 bio: '还我肥宅生活！'
 about: true
-aboutyou: '相当一只快乐肥宅~'
+aboutyou: '当一只快乐肥宅~'
 portraits: '/assets/first.png' # your portraits image file path
 
 # SNS
 SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
-  mail: 'mailto:abc@gmail.com'
+  mail: '601775987@qq.com'
   weixin: '/sns/wx.png' # 你的微信二维码存放的地址
   qq: '/sns/qq.png' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
   github: 'https://lovelovefish.github.io'
