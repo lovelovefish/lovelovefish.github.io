@@ -25,7 +25,7 @@ portraits: '/assets/first.png' # your portraits image file path
 # SNS
 SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
-  mail: '601775987@qq.com'
+#  mail: '601775987@qq.com'
   weixin: '/sns/wx.png' # 你的微信二维码存放的地址
   qq: '/sns/qq.png' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
   github: 'https://lovelovefish.github.io'
