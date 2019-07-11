@@ -16,7 +16,7 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 author: true
 name: '大果粒柠檬'
 NickName: '柠檬'
-webtitle: '我的小窝'
+webtitle: 'lovelovefish'
 bio: '还我肥宅生活！'
 about: true
 aboutyou: '当一只快乐肥宅~'
@@ -41,12 +41,12 @@ SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagr
 #  twitch: ''
 
 # 分页
-paginate: 2
+paginate: 5
 paginatepath: ['page:num']
 
 # since
 footer:
-  since: 2018
+  since: 2019
 
 # Markdown
 markdown: kramdown
